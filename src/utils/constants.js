@@ -12,3 +12,4 @@ export const supportedLanguage=[{name:"English",identifier:"en"},{name:"Hindi",i
 
 export const OpenAI_GPT_Key=process.env.REACT_APP_OPENAI_KEY;
 export const Gemnai_key=process.env.REACT_APP_GEMINIAI_KEY;
+console.log(process.env.REACT_APP_GEMINIAI_KEY)
